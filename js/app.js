@@ -1,6 +1,6 @@
-(function (window) {
-	'use strict';
-
-	// Your starting point. Enjoy the ride!
-
-})(window);
+new Vue ({
+	el: '#app',
+	data: {
+		message: 'Hello TodoMVC'
+	}
+})
